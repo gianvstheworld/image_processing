@@ -1,0 +1,3 @@
+[submodule "imageprocessing_course_icmc"]
+	path = imageprocessing_course_icmc
+	url = https://github.com/maponti/imageprocessing_course_icmc.git
